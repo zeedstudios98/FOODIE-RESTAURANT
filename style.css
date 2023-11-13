@@ -581,20 +581,24 @@ footer {
     .hero {
       padding: 20px;
       height: 426px;
+      text-align: center;
     }
   
     .hero h1 {
-      font-size: 1.5em;
+      font-size: 1.8em;
+      text-align: center;
     }
   
     .hero p {
-      font-size: 1em;
+      font-size: 1.2em;
+      text-align: center;
       margin-bottom: 10px;
     }
   
     .button {
-      padding: 8px 16px;
-      font-size: 0.8em;
+      padding: 10px 16px;
+      text-align: center;
+      font-size: 1em;
     }
 
     .about-section {
